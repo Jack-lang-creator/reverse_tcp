@@ -1,4 +1,4 @@
-#!/bin/env/python
+
 import socket
 #configure server host
 serv_host = "127.0.0.1"
